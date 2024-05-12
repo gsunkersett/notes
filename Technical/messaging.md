@@ -7,6 +7,7 @@
 The following table compares the three services: Event Grid, Event Hubs, and Service Bus.
 
 | Service | Purpose | Type | When to use |
+| --- | --- | --- | --- |
 | Event Grid | Reactive programming | Event distribution (discrete events) | React to status changes |
 | Event Hubs | Big data pipeline | Event streaming (series) | Telemetry and distributed data streaming |
 | Service Bus | High-value enterprise messaging | Message | Order processing and financial transactions |

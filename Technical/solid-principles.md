@@ -1,7 +1,5 @@
 # SOLID Principles
 
-#Technical
-
 [Code-Maze](https://code-maze.com/solid-principles/)
 
 ### S – Single Responsibility Principle

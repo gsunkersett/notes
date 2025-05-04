@@ -1,7 +1,5 @@
 # OOPs concepts
 
-#Technical
-
 ### Core OOP principles in C#
 
 1. **Abstraction**

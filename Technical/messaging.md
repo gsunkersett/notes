@@ -1,7 +1,5 @@
 # Messaging
 
-#Technical
-
 ## Comparison of services
 
 The following table compares the three services: Event Grid, Event Hubs, and Service Bus.

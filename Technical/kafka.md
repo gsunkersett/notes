@@ -1,7 +1,5 @@
 # Kafka
 
-#Technical
-
 Kafka is an open source distributed streaming platform that allows for the development of real-time event driven applications.
 
 Used to do the following:  

@@ -1,1 +1,17 @@
 # Notes
+
+## Technical
+
+- [Kafka](Technical/kafka.md)
+- [Messaging](Technical/messaging.md)
+- [OOPs Concepts](Technical/oops-concepts.md)
+- [Software Engineering at Google](Technical/software-engineering-at-google.md)
+- [SOLID Principles](Technical/solid-principles.md)
+
+## HowTos
+
+- [Load Env (Python)](HowTos/Python/load-env.md)
+
+## Books
+
+- [Talk Like TED](Books/talk-like-ted.md)

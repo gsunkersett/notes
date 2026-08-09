@@ -1,6 +1,6 @@
 # OOPs concepts
 
-### Core OOP principles in C#
+## Core OOP principles in C\#
 
 1. **Abstraction**
     - Objects: Imagine objects as real-world things like a car, a bank account, or even a window on your screen. Each object has its own unique set of properties (data) that describe its state and behaviors (methods) that define its actions.
